@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Brian"
+	],
+	"copyright": "Copyright © 2021, Brian",
+	"description": "Converts Scratch 3.0 projects to Java projects that use standard I/O",
+	"license": "GPL-3.0",
+	"name": "scratch2java"
+}

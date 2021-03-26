@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/scratch2java
+scratch2java.so
+scratch2java.dylib
+scratch2java.dll
+scratch2java.a
+scratch2java.lib
+scratch2java-test-*
+*.exe
+*.o
+*.obj
+*.lst
+tests
+.vscode
